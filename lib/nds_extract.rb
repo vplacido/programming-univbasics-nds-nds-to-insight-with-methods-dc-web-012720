@@ -21,6 +21,6 @@ def directors_totals(nds)
   result = {}
   i = 0 
   while i < nds.length do 
-    
+    directorName = nds[i]
   nil
 end
