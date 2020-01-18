@@ -11,7 +11,6 @@ def gross_for_director(director_data)
     i += 1 
   end
   total
-
 end
 
 # Write a method that, given an NDS creates a new Hash
